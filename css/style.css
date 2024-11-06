@@ -1,0 +1,135 @@
+.main-content {
+    font-family: 'Graphik LCG', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.glav {
+    color: blue;
+}
+
+.title-main {
+    color: white;
+    font-family: 'Graphik LCG', sans-serif;
+    margin: 0 0 30px 100px;
+    font-size: 48px;
+   
+}
+
+.program {
+    background-color: aqua;
+}
+.download {
+    padding: 20px;
+    color: white;
+    border: 3px solid #2f1ce4;
+    background-color: #2f1ce4;
+    text-decoration: none;
+    font-family: 'Graphik LCG', sans-serif;
+}
+
+.podrob {
+    padding: 20px;
+    color: white;
+    background-color: transparent;
+    border: solid 3px white;
+    text-decoration: none;
+    font-family: 'Graphik LCG', sans-serif;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    padding: 30px 0 30px 0;
+}
+
+.body_mod {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.tit_mod {
+    font-family: 'Graphik LCG', sans-serif;
+    margin: 0 0 62px 200px;
+    font-size: 40px;
+}
+
+.back_mod {
+    text-decoration: none;
+    font-family: 'Graphik LCG', sans-serif;
+    font-size: 18px;
+    color: black;
+    display: inline-block;
+}
+
+.back_mod img {
+    margin-right: 10px;
+    vertical-align: middle;
+    margin: 0 0 0 90px; 
+}
+
+.title_mod {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+    font-family: 'Graphik LCG', sans-serif;
+}
+
+.Ryb1, .Ryb2, .Ryb3, .Ryb4 {
+    position: relative;
+}
+
+
+.iner1, .iner3 {
+    position: absolute;
+    margin: 17px 0 0 20px;
+}
+
+.iner2 {
+    position: absolute;
+    margin: 17px 0 0 675px;
+}
+
+.iner4 {
+    position: absolute;
+    margin: 17px 0 0 675px;
+}
+
+
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+   
+  }
+
+  .pok_mod {
+    padding: 20px;
+    color: #2f1ce4;
+    border: 3px solid #2f1ce4;
+    background-color: #fff;
+    text-decoration: none;
+    font-family: 'Graphik LCG', sans-serif;
+    margin: 0 0 0 880px;
+}
+
+.title_kyb {
+    color: #2f1ce4;
+    font-size: 35px;
+    margin-left: 20px;
+    font-weight: bolder;
+}
+
+.table {
+    color: black;
+    font-family: 'Graphik LCG', sans-serif;
+    list-style-type: none;
+    font-size: 20px;
+	line-height: 40px;
+	
+}
+
